@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jatin Chaurasiya</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
+
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" />
 
 <p align="left"> 
@@ -12,6 +14,7 @@
 - ⚡ Fun fact: **I think I’m funny 😄**
 
 ---
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -29,7 +32,8 @@
   </a>
 </p>
 
----
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
+
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
@@ -47,19 +51,19 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/> </a>
 </p>
 
----
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
+
 <h3 align="center">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatin-chaurasiya&show_icons=true&theme=radical" alt="Jatin's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=jatin-chaurasiya&theme=radical&hide_border=false" alt="Jatin's GitHub Streak" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jatin-chaurasiya&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=jatin-chaurasiya&theme=radical" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-chaurasiya&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-chaurasiya&layout=compact&theme=radical" width="48%" />
 </p>
-
-
----
-
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 <h3 align="center">✨ “Code. Learn. Repeat.” ✨</h3>
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
+
