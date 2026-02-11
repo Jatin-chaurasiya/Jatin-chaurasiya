@@ -24,10 +24,10 @@
   <a href="https://instagram.com/mr.jatin_chaurasiya8953" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/jatinch_89" target="_blank">
+  <a href="https://www.codechef.comusers/jatinch_89" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="codechef" height="40" width="40" />
   </a>
-  <a href="https://leetcode.com/jatinchaurasiya/" target="_blank">
+  <a href="https://leetcode.comjatinchaurasiya/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="35" width="40" />
   </a>
 </p>
