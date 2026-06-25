@@ -58,6 +58,69 @@
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
+<h3 align="center">🚀 Featured Projects</h3>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+> My personal portfolio showcasing my skills, projects, achievements, and contact information.
+
+🔗 **Live Demo:**  
+**http://jatindev.xyz/**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 AgriConnect
+> A smart agriculture platform providing crop management, weather updates, and farmer-friendly services.
+
+🔗 **Live Demo:**  
+**http://agriconnect-89.jatindev.xyz/**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Finance Control
+> A finance management application for tracking expenses, budgeting, and financial insights.
+
+🔗 **Live Demo:**  
+**https://financecontrol.jatindev.xyz/**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👥 Customer Relation Management
+> A CRM system for managing customers, interactions, and business relationships efficiently.
+
+🔗 **Live Demo:**  
+**https://crm.jatindev.xyz/**
+
+</td>
+</tr>
+</table>
+
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
+
+<h3 align="center">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatin-chaurasiya&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=jatin-chaurasiya&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-chaurasiya&layout=compact&theme=radical" width="48%" />
+</p>
+
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
+
 <h3 align="center">📊 GitHub Stats:</h3>
 
 <p align="center">
