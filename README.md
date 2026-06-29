@@ -78,7 +78,7 @@
 > A smart agriculture platform providing crop management, weather updates, and farmer-friendly services.
 
 🔗 **Live Demo:**  
-**agriconnect.jatindev.xyz/**
+**http://agriconnect.jatindev.xyz/**
 
 </td>
 </tr>
